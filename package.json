@@ -1,0 +1,20 @@
+{
+  "name": "@filtu/webpack-typescript-config",
+  "version": "1.0.0",
+  "description": "Webpack TypeScript configuration",
+  "author": "Ilia Liachin <seelts@gmail.com>",
+  "license": "Unlicense",
+  "private": false,
+  "main": "src/",
+  "dependencies": {
+    "ts-loader": "6.0.2"
+  },
+  "devDependencies": {
+    "@filtu/prettier-config": "1.0.0",
+    "prettier": "1.17.1"
+  },
+  "peerDependencies": {
+    "typescript": "*"
+  },
+  "prettier": "@filtu/prettier-config"
+}
