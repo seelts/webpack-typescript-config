@@ -1,11 +1,12 @@
 {
   "name": "@filtu/webpack-typescript-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Webpack TypeScript configuration",
   "author": "Ilia Liachin <seelts@gmail.com>",
   "license": "Unlicense",
   "private": false,
   "main": "src/",
+  "files": [],
   "dependencies": {
     "ts-loader": "6.0.2"
   },
