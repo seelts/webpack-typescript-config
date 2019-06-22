@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@filtu/prettier-config@1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@filtu/prettier-config/-/prettier-config-1.0.0.tgz#14f2a3ffd0c29e10d901003655d773fd7d1ad94d"
-  integrity sha512-O4loYEhB+YYwss6rno4lRNKIj12WlTqA/GCEkXemoqxAl9L9+B7RbAbmqwDqHwufpzMY8HU4UfqqHLGPQt7qXA==
+"@filtu/prettier-config@1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@filtu/prettier-config/-/prettier-config-1.0.1.tgz#5357403b0bf6e5a7435601d952c37c3a65d6e8bc"
+  integrity sha512-yO414K1H2SFBQeKqfFpImVnx8qhGrjhoxQ7XLLiiXYKZ/OvTY/glP2lLmUoOQm2lKKqDPl1o8d2SHELwwTFT8Q==
 
 ansi-styles@^3.2.1:
   version "3.2.1"
