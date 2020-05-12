@@ -8,7 +8,7 @@
   "main": "src/",
   "files": [],
   "dependencies": {
-    "ts-loader": "6.0.2"
+    "ts-loader": "7.0.4"
   },
   "devDependencies": {
     "@filtu/prettier-config": "1.0.0",
